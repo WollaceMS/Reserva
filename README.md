@@ -1,10 +1,10 @@
-🛍️ Projeto Reserva – Clone Web com Django
+# 🛍️ Projeto Reserva – Clone Web com Django
 
 Este projeto é uma recriação da interface do e-commerce da marca Reserva, desenvolvida com foco em aprendizado prático de desenvolvimento web utilizando Django.
 
 O objetivo foi reproduzir a estrutura, organização e experiência visual de um e-commerce moderno, aplicando boas práticas de backend, templates dinâmicos e organização de projeto em Django.
 
-🚀 Objetivo do Projeto
+## 🚀 Objetivo do Projeto
 
 Desenvolver uma aplicação web completa inspirada no site da Reserva, com foco em:
 
@@ -18,7 +18,7 @@ Organização de produtos e categorias
 
 Simulação de funcionalidades de e-commerce
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Python
 
@@ -30,7 +30,7 @@ CSS3
 
 Banco de Dados SQL
 
-⚙️ Funcionalidades Implementadas
+ ##⚙️ Funcionalidades Implementadas
 
 ✔️ Página inicial inspirada no layout oficial
 ✔️ Listagem dinâmica de produtos
@@ -39,7 +39,7 @@ Banco de Dados SQL
 ✔️ Estrutura de models, views e templates bem definida
 ✔️ Admin do Django para gerenciamento de produtos
 
-🧠 Aprendizados
+## 🧠 Aprendizados
 
 Estrutura interna do Django
 
